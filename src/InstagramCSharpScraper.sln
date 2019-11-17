@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstagramCSharpScraper", "InstagramCSharpScraper\InstagramCSharpScraper.csproj", "{96D326B8-91AE-457F-BCAE-C93DE2802AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstagramCSharpScraper.Tests", "InstagramCSharpScraper.Tests\InstagramCSharpScraper.Tests.csproj", "{DCE41A68-5B08-493A-8CA0-A463617C98FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D326B8-91AE-457F-BCAE-C93DE2802AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D326B8-91AE-457F-BCAE-C93DE2802AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D326B8-91AE-457F-BCAE-C93DE2802AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D326B8-91AE-457F-BCAE-C93DE2802AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE41A68-5B08-493A-8CA0-A463617C98FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE41A68-5B08-493A-8CA0-A463617C98FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE41A68-5B08-493A-8CA0-A463617C98FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE41A68-5B08-493A-8CA0-A463617C98FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
